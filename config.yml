@@ -123,12 +123,12 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
+        enabled: true
+        title: bo3bdo
+        imageUrl: "https://bo3bdo.com/assets/images/profile.png"
         imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
+        imageWidth: 120
+        imageHeight: 120
         buttons:
             - name: Archives
               url: archives
